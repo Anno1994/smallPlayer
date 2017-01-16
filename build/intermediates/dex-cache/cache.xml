@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_486b2199ac904e38b8e397d3870dcb85adbb56e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_aba64141ae42c23778e11424922641df5cdaf347\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_26c350373f1ba9b3193c47503238964e004d58c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_83190e70477bcd6353394ce27e271304f781dbe0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="673b4b01dfa0e9cd95811d5270016229207830a0">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_84bb90e1f4597f5f6e4186976142974e4664279c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0791dd8954cf60889278e2e0869307695d1e02e9">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c70843a970bb61cf3ae39bc327b4183440ea428b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_9efabce0625687c34bed6ee96f1e2c041c6d4b10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_111d28861da06993dc5ebdd878db9f8772612350\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_70478d4d976f8634f9e45f874737973d44422491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_71d7c25eb8927c14ace39f83f57eee626c5f311e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_47dcb8cc6a97b0cbeb1322200d6b6d8d05b8e80e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Max\AndroidStudioProjects\SoundGrid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_3ffd00e54375da26952e514096a96d63e6c4c677\classes.dex" />
+    </item>
+
+</items>
